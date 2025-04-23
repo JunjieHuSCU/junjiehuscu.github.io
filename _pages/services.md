@@ -8,7 +8,7 @@ author_profile: true
 ## Journal Reviewers
 - IEEE Transactions on Cybernetics (TCYB)
 
-- IEEE Transactions on Medical Imaging (TCYB)
+- IEEE Transactions on Medical Imaging (TMI)
 
 - Knowledge-Based Systems
 
