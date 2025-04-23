@@ -10,6 +10,6 @@ author_profile: true
 
 - IEEE Transactions on Medical Imaging (TCYB)
 
-- Knowledge-based Systems
+- Knowledge-Based Systems
 
 - Neurocomputing
