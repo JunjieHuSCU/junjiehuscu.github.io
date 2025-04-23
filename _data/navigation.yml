@@ -15,18 +15,16 @@ main:
     url: /funds/    
 
   - title: "Teaching"
-    url: /teaching/    
+    url: /teaching/   
+  
+  - title: "Supervision"
+    url: /markdown/
     
   - title: "Services"
     url: /services/
-
-  - title: "Guide"
-    url: /markdown/
         
-  - title: "Blog Posts"
+  - title: "Blogs"
     url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
-    
-
+  # - title: "CV"
+  #   url: /cv/
