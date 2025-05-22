@@ -16,5 +16,12 @@ You can find information about my publications, teaching, and more in the top na
 
 ------
 # 🔥 News
+- **2025.05**:  
+We have open-sourced three projects based on [**Jittor**](https://github.com/Jittor/jittor), including:
+
+  - [**Jittor-NODE**](https://github.com/SCU-JittorMed/Jittor-NODE): A Jittor-based fixed-step solver for Neural ODEs, including support for the nmODE variant.
+  - [**Jittor-SimplTrans**](https://github.com/SCU-JittorMed/Jittor-SimplTrans): A simplified and efficient Transformer variant designed to improve accuracy and computational cost.
+  - [**Jittor-AugmentBN**](https://github.com/SCU-JittorMed/Jittor-AugmentBN): An enhanced Batch Normalization variant for training with the small batch size.
+
 - *2024.12*: &nbsp;🎉🎉 Congratulations to [Chengrong Yu](https://scholar.google.com/citations?user=SG5R43EAAAAJ&hl=en) on the successful attainment of his Ph.D. degree! 
 - *2023.06*: &nbsp;🎉🎉 Congratulations to [Ying Song](https://www.researchgate.net/scientific-contributions/Ying-Song-2063286058) on the successful attainment of her Ph.D. degree! 
