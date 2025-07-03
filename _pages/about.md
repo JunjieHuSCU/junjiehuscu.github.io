@@ -16,6 +16,13 @@ You can find information about my publications, teaching, and more in the top na
 
 ------
 # 🔥 News
+
+- *2025.06*: &nbsp;🎉🎉 Our paper “A Dual-resolution Cooperative Evolutionary Algorithm for Multi-objective IMRT Inverse Planning” received the Best Student Paper Award at the 2025 IEEE Congress on Evolutionary Computation.
+<p align="center">
+  <img src="images/IEEE-CEC-Best-Student-Paper.jpg" alt="CEC 2025 Best Student Paper Award" style="width:60%; max-width:600px;">
+</p>
+ <!-- ![CEC2025](images/IEEE-CEC-Best-Student-Paper.jpg) -->
+
 - **2025.05**:  
 We have open-sourced three projects based on [**Jittor**](https://github.com/Jittor/jittor), including:
 
